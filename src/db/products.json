@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "producto 1",
+    "description": "Producto actualizado",
+    "price": 150,
+    "thumbnail": "./thumb.jpg",
+    "code": 1,
+    "prodstatus": true,
+    "stock": 10,
+    "category": "comida"
+  },
+  {
+    "id": 2,
+    "title": "Pan de campo",
+    "description": "Pan de campo hecho en el día",
+    "price": 300,
+    "thumbnail": "./thumb.jpg",
+    "code": 2,
+    "prodstatus": true,
+    "stock": 24,
+    "category": "comida"
+  },
+  {
+    "id": 3,
+    "title": "Leche",
+    "description": "Leche de vaca (1L)",
+    "price": 400,
+    "thumbnail": "./thumb.jpg",
+    "code": 3,
+    "prodstatus": true,
+    "stock": 35,
+    "category": "bebida"
+  },
+  {
+    "id": 4,
+    "title": "Postman",
+    "description": "Hecho con postman",
+    "price": "500",
+    "thumbnail": "/si.jpg",
+    "code": 4,
+    "prodstatus": true,
+    "stock": "123",
+    "category": "test"
+  }
+]
